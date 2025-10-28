@@ -65,6 +65,3 @@ Il programma accetta i seguenti argomenti da riga di comando:
 # Output: esempio
 # (Usa la chiave "chiave")
 ```
-```
-
------
